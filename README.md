@@ -83,4 +83,18 @@
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natasha-queiroz&show_icons=true&theme=dracula)
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=natasha-queiroz&show_icons=true&theme=dracula" 
+/>
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=natasha-queiroz&theme=dracula&custom_title=Technologies&langs_count=9" 
+/>
+
