@@ -1,7 +1,7 @@
  # 👩🏻‍💻 Natasha Queiroz
  **`Desenvolvedora Front-End`**
 
- Me chamo Natasha Queiroz, tenho 26 anos e sou natural de Fortaleza-CE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.  "[Natasha Queiroz]()",  "[Natasha Queiroz]()".
+ Me chamo Natasha Queiroz, tenho 26 anos e sou natural de Fortaleza-CE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.  "[]()",  "[]()".
 
  ---
 
