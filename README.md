@@ -63,6 +63,18 @@
 
 <img 
     align="left" 
+    alt="DELPHI" 
+    title="DELPHI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/373548/delphi.svg" 
+/>
+
+
+
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
