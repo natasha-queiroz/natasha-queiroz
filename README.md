@@ -82,7 +82,6 @@
 />
 
 
-
 <img 
     align="left" 
     alt="Git" 
@@ -91,7 +90,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
 
 <br/>
 <br/>
@@ -105,6 +103,7 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=natasha-queiroz&show_icons=true&theme=dracula" 
 />
+
 <img 
     align="left" 
     alt="GitHub Stats" 
