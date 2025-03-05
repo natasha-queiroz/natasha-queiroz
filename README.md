@@ -3,7 +3,7 @@
 
  **`Suporte de TI`**
 
- Me chamo Natasha Queiroz, sou natural de Fortaleza-CE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.  "[]()",  "[]()".
+ My name is Natasha Queiroz, I'm from Fortaleza-CE. I am currently studying Systems Analysis and Development.  "[]()",  "[]()".
 
  ---
 
