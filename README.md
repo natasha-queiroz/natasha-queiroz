@@ -1,7 +1,9 @@
- # 👩🏻‍💻 Hy, my name is Natasha Queiroz
+ # 👩🏻‍💻 Hi there, welcome to my Github profile
  **`Desenvolvedora Front-End`**
+ 
+ **`Supotte de TI`**
 
- Me chamo Natasha Queiroz, tenho 26 anos e sou natural de Fortaleza-CE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.  "[]()",  "[]()".
+ Me chamo Natasha Queiroz, sou natural de Fortaleza-CE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.  "[]()",  "[]()".
 
  ---
 
