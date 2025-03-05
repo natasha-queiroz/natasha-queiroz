@@ -1,6 +1,6 @@
- # 👩🏻‍💻 Hi there, welcome to my Github profile
+ # 👋 Hi there, welcome to my Github profile 👩🏻‍💻
  **`Desenvolvedora Front-End`**
- 
+
  **`Supotte de TI`**
 
  Me chamo Natasha Queiroz, sou natural de Fortaleza-CE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.  "[]()",  "[]()".
@@ -81,14 +81,14 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 
-<img 
+<!-- <img 
     align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+/> -->
 
 <br/>
 <br/>
