@@ -1,7 +1,7 @@
  # 👋 Hi there, welcome to my Github profile 👩🏻‍💻
- **`Desenvolvedora Front-End`**
+ **`Front-End Developer`**
 
- **`Suporte de TI`**
+ **`IT Support`**
 
  My name is Natasha Queiroz, I'm from Fortaleza-CE. I am currently studying Systems Analysis and Development.  "[]()",  "[]()".
 
