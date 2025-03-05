@@ -1,7 +1,7 @@
  # 👋 Hi there, welcome to my Github profile 👩🏻‍💻
  **`Desenvolvedora Front-End`**
 
- **`Supotte de TI`**
+ **`Suporte de TI`**
 
  Me chamo Natasha Queiroz, sou natural de Fortaleza-CE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.  "[]()",  "[]()".
 
