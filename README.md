@@ -112,8 +112,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=natasha-queiroz&theme=dracula&custom_title=Technologies&langs_count=9" 
 />
 
-
-
 <br/>
 <br/>
 <br/>
